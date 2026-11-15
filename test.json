@@ -4,5 +4,16 @@
   "artist": "test",
   "author": "test1",
   "cover": "https://http.cat/413.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1794750380",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
