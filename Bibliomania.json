@@ -4,5 +4,126 @@
   "artist": "Macchiro",
   "author": "Obaru",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Alice in Phantasmagoria",
+      "volume": "1",
+      "last_updated": "1473051600",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "The Trials of Room 430",
+      "volume": "1",
+      "last_updated": "1477285200",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "3": {
+      "title": "The Bird of Room 413 and the Hero of Room 385",
+      "volume": "1",
+      "last_updated": "1482732000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "4": {
+      "title": "The Dining Table of Room 285",
+      "volume": "1",
+      "last_updated": "1487570400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "5": {
+      "title": "The Bog of Room 276",
+      "volume": "1",
+      "last_updated": "1491195600",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "6": {
+      "title": "The Tombstone of Room 268 and the Researcher of Room 255",
+      "volume": "1",
+      "last_updated": "1496034000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "7": {
+      "title": "Run Towards Death",
+      "volume": "1",
+      "last_updated": "1499662800",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "8": {
+      "title": "Guests",
+      "volume": "1",
+      "last_updated": "1409806800",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "9": {
+      "title": "Banquet",
+      "volume": "1",
+      "last_updated": "1508302800",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "10": {
+      "title": "Remembrance",
+      "volume": "1",
+      "last_updated": "1513576800",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "11": {
+      "title": "The Great War",
+      "volume": "1",
+      "last_updated": "1519020000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "12": {
+      "title": "Sunset",
+      "volume": "1",
+      "last_updated": "1523854800",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
