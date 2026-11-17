@@ -1,0 +1,629 @@
+{
+  "title": "Girls’ Last Tour",
+  "description": "Civilization is dead, but not Chito and Yuuri. Time to hop aboard their beloved Kettenkrad motorbike and wander what’s left of the world! Sharing a can of soup or scouting for spare parts might not be the experience they were hoping for, but all in all, life isn’t too bad…\n\n*Source: Yen Press, Vol. 1*\n\nStatus: completed\nTags: Adventure, Chibi, Cosmic Horror, Cute Girls Doing Cute Things, Denpa, Drama, Environmental Degradation, Episodic, Exploration, Future, Inconclusive Ending, Mono no Aware, Philosophical, Primarily Female Cast, Psychological, Sci-Fi, Seinen, Sketchy, Slice of Life, Snowscape, Tanks, Urban, Adapted to Anime, Award Winning, Family Drama, Female Centric Plot, Female Lead, Female Protagonist, Friendship, Iyashikei, Loneliness, Lost Civilization, Melancholy, Non-GL with Two Female Leads, Orphans, Philosophical Moments, Philosophy, Post-Apocalyptic, Post-War, Reflections on Human Existence, Robots, Short Chapters, Survival, Travel",
+  "artist": "Tsukumizu",
+  "author": "Tsukumizu",
+  "cover": "https://uploads.mangadex.org/covers/5b93fa0f-0640-49b8-974e-954b9959929b/67d556f5-91d4-4b85-b287-2f74f008e564.jpg",
+  "chapters": {
+    "1": {
+      "title": "Starry Sky",
+      "volume": "1",
+      "last_updated": "1517059968",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "War",
+      "volume": "1",
+      "last_updated": "1517060425",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "3": {
+      "title": "Bath",
+      "volume": "1",
+      "last_updated": "1579442413",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "4": {
+      "title": "Diary",
+      "volume": "1",
+      "last_updated": "1517061179",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "5": {
+      "title": "Laundry",
+      "volume": "1",
+      "last_updated": "1517061648",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "6": {
+      "title": "Encounter",
+      "volume": "1",
+      "last_updated": "1517061825",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "7": {
+      "title": "City",
+      "volume": "1",
+      "last_updated": "1517061938",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "8": {
+      "title": "Street Lights",
+      "volume": "1",
+      "last_updated": "1517062158",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "9": {
+      "title": "Photograph",
+      "volume": "2",
+      "last_updated": "1517062332",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "10": {
+      "title": "Temple",
+      "volume": "2",
+      "last_updated": "1517062513",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "11": {
+      "title": "Nap",
+      "volume": "2",
+      "last_updated": "1517062698",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "12": {
+      "title": "The Sound of Rain",
+      "volume": "2",
+      "last_updated": "1517062903",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "13": {
+      "title": "Breakdown",
+      "volume": "2",
+      "last_updated": "1517063118",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "14": {
+      "title": "Technology",
+      "volume": "2",
+      "last_updated": "1517063244",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "15": {
+      "title": "Takeoff",
+      "volume": "2",
+      "last_updated": "1517063529",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "16": {
+      "title": "Labyrinth",
+      "volume": "2",
+      "last_updated": "1517063726",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "17": {
+      "title": "Cooking",
+      "volume": "3",
+      "last_updated": "1517063842",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "18": {
+      "title": "Memories",
+      "volume": "3",
+      "last_updated": "1517063991",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "19": {
+      "title": "Spiral",
+      "volume": "3",
+      "last_updated": "1517064135",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "20": {
+      "title": "Machine",
+      "volume": "3",
+      "last_updated": "1517064392",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "21": {
+      "title": "Water Tank",
+      "volume": "3",
+      "last_updated": "1517064451",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "22": {
+      "title": "Life",
+      "volume": "3",
+      "last_updated": "1517064783",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "23": {
+      "title": "Train",
+      "volume": "3",
+      "last_updated": "1517065070",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "24": {
+      "title": "Wavelength",
+      "volume": "3",
+      "last_updated": "1517065692",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "25": {
+      "title": "Capture",
+      "volume": "4",
+      "last_updated": "1517066082",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "26": {
+      "title": "Culture",
+      "volume": "4",
+      "last_updated": "1517066660",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "27": {
+      "title": "Past",
+      "volume": "4",
+      "last_updated": "1517066884",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "28": {
+      "title": "Connection",
+      "volume": "4",
+      "last_updated": "1517067231",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "29": {
+      "title": "Comrade",
+      "volume": "4",
+      "last_updated": "1517067485",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "30": {
+      "title": "Channel",
+      "volume": "4",
+      "last_updated": "1517067695",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "31": {
+      "title": "Injury",
+      "volume": "4",
+      "last_updated": "1517067793",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "32": {
+      "title": "Art",
+      "volume": "4",
+      "last_updated": "1517067885",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "33": {
+      "title": "Clothes",
+      "volume": "5",
+      "last_updated": "1517067984",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "34": {
+      "title": "Explosion",
+      "volume": "5",
+      "last_updated": "1517068214",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "35": {
+      "title": "Oblivion",
+      "volume": "5",
+      "last_updated": "1517068314",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "36": {
+      "title": "Hometown",
+      "volume": "5",
+      "last_updated": "1517068498",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "37": {
+      "title": "Blizzard",
+      "volume": "5",
+      "last_updated": "1517068617",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "38": {
+      "title": "Space",
+      "volume": "5",
+      "last_updated": "1517068690",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "39": {
+      "title": "Book",
+      "volume": "5",
+      "last_updated": "1517068791",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "40": {
+      "title": "Loss",
+      "volume": "5",
+      "last_updated": "1517068887",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "41": {
+      "title": "Sleep",
+      "volume": "6",
+      "last_updated": "1517068995",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "42": {
+      "title": "Silence",
+      "volume": "6",
+      "last_updated": "1517069072",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "43": {
+      "title": "End",
+      "volume": "6",
+      "last_updated": "1533103420",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "44": {
+      "title": "",
+      "volume": "6",
+      "last_updated": "1608241223",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "45": {
+      "title": "",
+      "volume": "6",
+      "last_updated": "1608241240",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "46": {
+      "title": "",
+      "volume": "6",
+      "last_updated": "1608241251",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "47": {
+      "title": "ایستگاه آخر",
+      "volume": "6",
+      "last_updated": "1656205153",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2.5": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1581157170",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "9.5": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1581157195",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "14.5": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1581157211",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "17.5": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1581157224",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "21.5": {
+      "title": "",
+      "volume": "3",
+      "last_updated": "1581157237",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "25.5": {
+      "title": "",
+      "volume": "4",
+      "last_updated": "1581157255",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "28.5": {
+      "title": "",
+      "volume": "4",
+      "last_updated": "1581157265",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "33.5": {
+      "title": "Tobacco",
+      "volume": "5",
+      "last_updated": "1517068095",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "39.5": {
+      "title": "Recharge (web bonus chapter 1)",
+      "volume": "",
+      "last_updated": "1782876115",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "39.6": {
+      "title": "Snowball (web bonus chapter 2)",
+      "volume": "",
+      "last_updated": "1782926869",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "39.7": {
+      "title": "",
+      "volume": "5",
+      "last_updated": "1581157302",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "43.5": {
+      "title": "Volume 6 Tankoubon extra chapter",
+      "volume": "6",
+      "last_updated": "1521973469",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "43.6": {
+      "title": "Special",
+      "volume": "6",
+      "last_updated": "1525607153",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "44.5": {
+      "title": "",
+      "volume": "6",
+      "last_updated": "1608241234",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "47.5": {
+      "title": "چپتر ویژه",
+      "volume": "6",
+      "last_updated": "1656205961",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
+}
