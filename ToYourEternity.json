@@ -1136,9 +1136,9 @@
       }
     },
     "114": {
-      "title": "Прах и полубоги (1-2)",
+      "title": "Dust and Demigods",
       "volume": "12",
-      "last_updated": "1573217089",
+      "last_updated": "1573217040",
       "groups": {
         "": [
           ""
@@ -1146,9 +1146,9 @@
       }
     },
     "115": {
-      "title": "Праздник воскресших",
+      "title": "Feast for the Resurrected",
       "volume": "12",
-      "last_updated": "1575958033",
+      "last_updated": "1575958020",
       "groups": {
         "": [
           ""
@@ -1176,9 +1176,9 @@
       }
     },
     "118": {
-      "title": "Веревка (часть 1)",
+      "title": "Reins",
       "volume": "13",
-      "last_updated": "1580372063",
+      "last_updated": "1580372040",
       "groups": {
         "": [
           ""
@@ -1186,9 +1186,9 @@
       }
     },
     "119": {
-      "title": "Novo encontro (1)",
+      "title": "New Encounter",
       "volume": "13",
-      "last_updated": "1582343376",
+      "last_updated": "1582343340",
       "groups": {
         "": [
           ""
@@ -1196,9 +1196,9 @@
       }
     },
     "120": {
-      "title": "Путь аутсайдера (1)",
+      "title": "Path of the Outsider",
       "volume": "13",
-      "last_updated": "1583907397",
+      "last_updated": "1583907360",
       "groups": {
         "": [
           ""
@@ -1206,9 +1206,9 @@
       }
     },
     "121": {
-      "title": "",
+      "title": "Long-Sought Home",
       "volume": "13",
-      "last_updated": "1585847506",
+      "last_updated": "1585847460",
       "groups": {
         "": [
           ""
@@ -1216,9 +1216,19 @@
       }
     },
     "122": {
-      "title": "Связь сердец (1-2)",
+      "title": "Bound Hearts",
       "volume": "13",
-      "last_updated": "1588391032",
+      "last_updated": "1588390980",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "123": {
+      "title": "Guide",
+      "volume": 13,
+      "last_updated": "1795068000",
       "groups": {
         "": [
           ""
@@ -1226,9 +1236,9 @@
       }
     },
     "124": {
-      "title": "Мизуха (1)",
+      "title": "Mizuha",
       "volume": "13",
-      "last_updated": "1590773539",
+      "last_updated": "1590773520",
       "groups": {
         "": [
           ""
@@ -1236,9 +1246,9 @@
       }
     },
     "125": {
-      "title": "Секретная база",
+      "title": "Secret Base",
       "volume": "14",
-      "last_updated": "1591844167",
+      "last_updated": "1591844160",
       "groups": {
         "": [
           ""
@@ -1246,9 +1256,9 @@
       }
     },
     "126": {
-      "title": "Исчезнувшая (1)",
+      "title": "The One Who Vanished",
       "volume": "14",
-      "last_updated": "1593756571",
+      "last_updated": "1593756540",
       "groups": {
         "": [
           ""
@@ -1256,9 +1266,69 @@
       }
     },
     "127": {
-      "title": "Его место (1)",
+      "title": "Where He Is",
       "volume": "14",
-      "last_updated": "1595493154",
+      "last_updated": "1595493120",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "128": {
+      "title": "The Battle Continues",
+      "volume": 14,
+      "last_updated": "1795068000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "129": {
+      "title": "Words That Do Not Reach",
+      "volume": 14,
+      "last_updated": "1795068000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "130": {
+      "title": "Proof of Peace",
+      "volume": 14,
+      "last_updated": "1795068000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "131": {
+      "title": "Alongside Peace",
+      "volume": 14,
+      "last_updated": "1795068000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "132": {
+      "title": "Contract for Love",
+      "volume": 14,
+      "last_updated": "1795068000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "133": {
+      "title": "Record: Hirotoshi",
+      "volume": 15,
+      "last_updated": "1795068000",
       "groups": {
         "": [
           ""
@@ -1266,9 +1336,9 @@
       }
     },
     "134": {
-      "title": "Attack (1)",
+      "title": "Attack",
       "volume": "15",
-      "last_updated": "1625678628",
+      "last_updated": "1625678580",
       "groups": {
         "": [
           ""
@@ -1276,9 +1346,9 @@
       }
     },
     "135": {
-      "title": "Attack (2)",
+      "title": "Trouble",
       "volume": "15",
-      "last_updated": "1625678668",
+      "last_updated": "1625678640",
       "groups": {
         "": [
           ""
@@ -1286,9 +1356,29 @@
       }
     },
     "136": {
-      "title": "Nuisance (1)",
+      "title": "Rejected Life",
       "volume": "15",
-      "last_updated": "1631128791",
+      "last_updated": "1631128740",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "137": {
+      "title": "A Say",
+      "volume": 15,
+      "last_updated": "1795068000",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "138": {
+      "title": "Enemy's Den",
+      "volume": 15,
+      "last_updated": "1795068000",
       "groups": {
         "": [
           ""
@@ -1809,96 +1899,6 @@
       "title": "El Primero",
       "volume": "",
       "last_updated": "1749068554",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "123.1": {
-      "title": "Guide (1)",
-      "volume": "13",
-      "last_updated": "1591686742",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "128.1": {
-      "title": "The Fight Continues (1)",
-      "volume": "14",
-      "last_updated": "1597874719",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "129.1": {
-      "title": "Words That Do Not Reach (1)",
-      "volume": "14",
-      "last_updated": "1601420483",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "130.1": {
-      "title": "Proof of Peace (1)",
-      "volume": "14",
-      "last_updated": "1606832542",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "131.1": {
-      "title": "Together With Peace (1)",
-      "volume": "14",
-      "last_updated": "1612190245",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "132.1": {
-      "title": "Deal of Love (1)",
-      "volume": "14",
-      "last_updated": "1615572694",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "133.1": {
-      "title": "Report Hirotoshi (1)",
-      "volume": "15",
-      "last_updated": "1625678508",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "137.1": {
-      "title": "Escolha (1)",
-      "volume": "15",
-      "last_updated": "1613695400",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "138.1": {
-      "title": "Логово врага (1)",
-      "volume": "15",
-      "last_updated": "1614833579",
       "groups": {
         "": [
           ""
