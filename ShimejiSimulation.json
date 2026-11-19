@@ -1,0 +1,569 @@
+{
+  "title": "Shimeji Simulation",
+  "description": "A girl who shut herself in a closet for the last 2 years of middle school realizes she has to go to high school. When she exits her closet for the first time in two years and looks at herself in the mirror, she notices that she grew shimeji mushrooms out of her head.\n\nStatus: completed\nTags: Cold Protagonist, Comedy, Cute Girls Doing Cute Things, Drama, Hikikomori, Male Demographic with Female Lead, Melancholy Atmosphere, Psychological, Reflections on Human Existence, School, School Clubs, School Life, Seinen, Shoujo Ai, Slice of Life, Yuri, 4-Koma, Anti-Social Protagonist, Denpa, Depression, Episodic, Fantasy, Female Lead, Female Protagonist, High School, Loneliness, Mushrooms, Philosophy, Primarily Female Cast, Reflections on Human Nature, Sketchy, Surreal Comedy, Surrealism, Trains, Urban",
+  "artist": "Tsukumizu",
+  "author": "Tsukumizu",
+  "cover": "https://uploads.mangadex.org/covers/28b5d037-175d-4119-96f8-e860e408ebe9/10fdd70c-4bfa-470c-a821-31d92a00ef47.jpg",
+  "chapters": {
+    "0": {
+      "title": "Shimeji Picture Book",
+      "volume": "0",
+      "last_updated": "1556748751",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "1": {
+      "title": "Friend",
+      "volume": "1",
+      "last_updated": "1548553340",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "Yoshika",
+      "volume": "1",
+      "last_updated": "1551323254",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "3": {
+      "title": "Hole Digging",
+      "volume": "1",
+      "last_updated": "1556546997",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "4": {
+      "title": "Shape",
+      "volume": "1",
+      "last_updated": "1556565851",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "5": {
+      "title": "Heaven",
+      "volume": "1",
+      "last_updated": "1559346197",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "6": {
+      "title": "Rain",
+      "volume": "1",
+      "last_updated": "1562253279",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "7": {
+      "title": "A Walk",
+      "volume": "1",
+      "last_updated": "1567057429",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "8": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1566945345",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "9": {
+      "title": "Experiment",
+      "volume": "1",
+      "last_updated": "1569618556",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "10": {
+      "title": "Dream",
+      "volume": "1",
+      "last_updated": "1572224071",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "11": {
+      "title": "All Sorts of People",
+      "volume": "2",
+      "last_updated": "1577518625",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "12": {
+      "title": "All Sorts of Words",
+      "volume": "2",
+      "last_updated": "1580137945",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "13": {
+      "title": "The Neighbors",
+      "volume": "2",
+      "last_updated": "1582919237",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "14": {
+      "title": "Majime-chan's House",
+      "volume": "2",
+      "last_updated": "1585425590",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "15": {
+      "title": "Person at the Library",
+      "volume": "2",
+      "last_updated": "1588124488",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "16": {
+      "title": "Buried Treasure",
+      "volume": "2",
+      "last_updated": "1590693669",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "17": {
+      "title": "Shopping Mall",
+      "volume": "2",
+      "last_updated": "1593421389",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "18": {
+      "title": "The Teacher's Shape",
+      "volume": "2",
+      "last_updated": "1595896021",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "19": {
+      "title": "Hole-Digger",
+      "volume": "2",
+      "last_updated": "1601309994",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "20": {
+      "title": "Earth Donut",
+      "volume": "2",
+      "last_updated": "1606593441",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "21": {
+      "title": "Rotation",
+      "volume": "3",
+      "last_updated": "1609257307",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "22": {
+      "title": "Summer Snow",
+      "volume": "3",
+      "last_updated": "1612134013",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "23": {
+      "title": "Expression",
+      "volume": "3",
+      "last_updated": "1614573755",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "24": {
+      "title": "Writing Lyrics",
+      "volume": "3",
+      "last_updated": "1625680629",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "25": {
+      "title": "Floating",
+      "volume": "3",
+      "last_updated": "1625680675",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "26": {
+      "title": "Darkness",
+      "volume": "3",
+      "last_updated": "1625680929",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "27": {
+      "title": "Away From Home",
+      "volume": "3",
+      "last_updated": "1627634636",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "28": {
+      "title": "Mysterious Stone",
+      "volume": "3",
+      "last_updated": "1630547202",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "29": {
+      "title": "Explanation",
+      "volume": "3",
+      "last_updated": "1633204789",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "30": {
+      "title": "Change",
+      "volume": "3",
+      "last_updated": "1635551854",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "31": {
+      "title": "Arkitacture",
+      "volume": "4",
+      "last_updated": "1640576215",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "32": {
+      "title": "Feshion",
+      "volume": "4",
+      "last_updated": "1643578866",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "33": {
+      "title": "Kokoa",
+      "volume": "4",
+      "last_updated": "1646178841",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "34": {
+      "title": "Nathing",
+      "volume": "4",
+      "last_updated": "1648482085",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "35": {
+      "title": "Faer",
+      "volume": "4",
+      "last_updated": "1651242676",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "36": {
+      "title": "Algirothm",
+      "volume": "4",
+      "last_updated": "1657577784",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "37": {
+      "title": "Cotcus",
+      "volume": "4",
+      "last_updated": "1659046018",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "38": {
+      "title": "Exvacation",
+      "volume": "4",
+      "last_updated": "1661647975",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "39": {
+      "title": "Fostavel",
+      "volume": "4",
+      "last_updated": "1664500426",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "40": {
+      "title": "Masic",
+      "volume": "4",
+      "last_updated": "1669598943",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "41": {
+      "title": "❍🔥🔔",
+      "volume": "5",
+      "last_updated": "1674871075",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "42": {
+      "title": "⦾",
+      "volume": "5",
+      "last_updated": "1677630467",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "43": {
+      "title": "🍊🍊🍊",
+      "volume": "5",
+      "last_updated": "1679892738",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "44": {
+      "title": "We are but a stream",
+      "volume": "5",
+      "last_updated": "1682818926",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "45": {
+      "title": "🐟",
+      "volume": "5",
+      "last_updated": "1685220051",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "46": {
+      "title": "Kingdom",
+      "volume": "5",
+      "last_updated": "1687935049",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "47": {
+      "title": "Sleep",
+      "volume": "5",
+      "last_updated": "1690447246",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "48": {
+      "title": "Train",
+      "volume": "5",
+      "last_updated": "1695874159",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "49": {
+      "title": "🍄 🍳",
+      "volume": "5",
+      "last_updated": "1701054043",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "10.5": {
+      "title": "Extras",
+      "volume": "1",
+      "last_updated": "1583366409",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "18.5": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "1598558234",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "20.5": {
+      "title": "Volume 2 Extras",
+      "volume": "2",
+      "last_updated": "1615507677",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "30.5": {
+      "title": "Volume 3 Extras",
+      "volume": "3",
+      "last_updated": "1654880991",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "40.5": {
+      "title": "Volume 4 Extras",
+      "volume": "4",
+      "last_updated": "1685330441",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "49.5": {
+      "title": "Volume 5 Extras",
+      "volume": "5",
+      "last_updated": "1707595110",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
+}
