@@ -6,7 +6,7 @@
   "cover": "https://uploads.mangadex.org/covers/fba5dacb-e34f-45e8-9606-f6f8e40fe4a2/e14e75e1-fe62-4f3b-8aa5-db26d760c856.jpg",
   "chapters": {
     "1": {
-      "title": "",
+      "title": "Long Distance",
       "volume": "1",
       "last_updated": "1714576301",
       "groups": {
@@ -47,7 +47,7 @@
     },
     "5": {
       "title": "Red Alert",
-      "volume": "1",
+      "volume": 2,
       "last_updated": "1523880027",
       "groups": {
         "": [
@@ -76,7 +76,7 @@
       }
     },
     "8": {
-      "title": "",
+      "title": "Silent Night",
       "volume": "2",
       "last_updated": "1523880074",
       "groups": {
