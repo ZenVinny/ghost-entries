@@ -1846,8 +1846,8 @@
       }
     },
     "185": {
-      "title": "Следуя к корням",
-      "volume": "",
+      "title": "Tracing the Roots",
+      "volume": 23,
       "last_updated": "1731589394",
       "groups": {
         "": [
@@ -1856,8 +1856,8 @@
       }
     },
     "186": {
-      "title": "Живой мертвец",
-      "volume": "",
+      "title": "Living Dead ①",
+      "volume": 23,
       "last_updated": "1731589633",
       "groups": {
         "": [
@@ -1866,8 +1866,8 @@
       }
     },
     "187": {
-      "title": "Живой мертвец 2",
-      "volume": "",
+      "title": "Living Dead ②",
+      "volume": 23,
       "last_updated": "1733196924",
       "groups": {
         "": [
@@ -1876,8 +1876,8 @@
       }
     },
     "188": {
-      "title": "Живой мертвец (3)",
-      "volume": "",
+      "title": "Living dead ③",
+      "volume": 23,
       "last_updated": "1752919435",
       "groups": {
         "": [
@@ -1886,8 +1886,8 @@
       }
     },
     "189": {
-      "title": "Истинная личность куклы ",
-      "volume": "",
+      "title": "The Doll's True Identity",
+      "volume": 24,
       "last_updated": "1752922405",
       "groups": {
         "": [
@@ -1895,9 +1895,119 @@
         ]
       }
     },
+    "190": {
+      "title": "Her Story",
+      "volume": 24,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "191": {
+      "title": "For What? For Whom?",
+      "volume": 24,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "192": {
+      "title": "Seeking Its Whereabouts",
+      "volume": 24,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "193": {
+      "title": "What I Wanted You to Know",
+      "volume": 24,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "194": {
+      "title": "Nono and Tribulations",
+      "volume": 24,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "195": {
+      "title": "ー",
+      "volume": 24,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "196": {
+      "title": "Awakening True Feelings",
+      "volume": 25,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "197": {
+      "title": "Falling Petals",
+      "volume": 25,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "198": {
+      "title": "Decision",
+      "volume": 25,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "199": {
+      "title": "World of White",
+      "volume": 25,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "200": {
+      "title": "Their Place to Return",
+      "volume": 25,
+      "last_updated": "1795154400",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
     "201": {
-      "title": "El Primero",
-      "volume": "",
+      "title": "The First One",
+      "volume": 25,
       "last_updated": "1749068554",
       "groups": {
         "": [
@@ -1905,110 +2015,10 @@
         ]
       }
     },
-    "190.1": {
-      "title": "La Historia de Ella (1)",
-      "volume": "24",
-      "last_updated": "1725761447",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "191.1": {
-      "title": "Pelo quê? Por quem?",
-      "volume": "24",
-      "last_updated": "1726603805",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "192.1": {
-      "title": "Buscando Su Paradero (1)",
-      "volume": "24",
-      "last_updated": "1729102740",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "193.1": {
-      "title": "Lo Que Yo Quería que Supieras (1)",
-      "volume": "24",
-      "last_updated": "1731625369",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "194.1": {
-      "title": "Nono y Tribulaciones (1)",
-      "volume": "24",
-      "last_updated": "1732834352",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "195.1": {
-      "title": "- (1)",
-      "volume": "24",
-      "last_updated": "1735055994",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "196.1": {
-      "title": "Despertando Verdaderos Sentimientos(1)",
-      "volume": "",
-      "last_updated": "1738112316",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "197.1": {
-      "title": "Pétalas Caindo (1)",
-      "volume": "",
-      "last_updated": "1739293692",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "198.1": {
-      "title": "Decisão (1)",
-      "volume": "",
-      "last_updated": "1741710090",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "199.1": {
-      "title": "Mundo Blanco (1)",
-      "volume": "",
-      "last_updated": "1743995620",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "200.1": {
-      "title": "O lugar para retornarem(1)",
-      "volume": "",
-      "last_updated": "1745349662",
+    "201.5": {
+      "title": "-March's Reminiscences-",
+      "volume": 25,
+      "last_updated": "1795154400",
       "groups": {
         "": [
           ""
