@@ -176,7 +176,7 @@
       }
     },
     "18": {
-      "title": "Resolve",
+      "title": "Prepared",
       "volume": "3",
       "last_updated": "1643456207",
       "groups": {
@@ -186,7 +186,7 @@
       }
     },
     "19": {
-      "title": "Out",
+      "title": "Doomed",
       "volume": "3",
       "last_updated": "1643456220",
       "groups": {
@@ -196,7 +196,7 @@
       }
     },
     "20": {
-      "title": "\"Teaming Up\"",
+      "title": "Alliance",
       "volume": "3",
       "last_updated": "1643456243",
       "groups": {
@@ -206,7 +206,7 @@
       }
     },
     "21": {
-      "title": "An Obvious Trap",
+      "title": "Blatant Trap",
       "volume": "3",
       "last_updated": "1643456275",
       "groups": {
@@ -226,7 +226,7 @@
       }
     },
     "23": {
-      "title": "Eradicate!",
+      "title": "Destroy!",
       "volume": "3",
       "last_updated": "1643456379",
       "groups": {
@@ -236,7 +236,7 @@
       }
     },
     "24": {
-      "title": "Investigation - Part 1",
+      "title": "Inspection - Part 1",
       "volume": "3",
       "last_updated": "1643456486",
       "groups": {
@@ -246,7 +246,7 @@
       }
     },
     "25": {
-      "title": "Investigation - Part 2",
+      "title": "Inspection - Part 2",
       "volume": "3",
       "last_updated": "1643456587",
       "groups": {
@@ -1809,26 +1809,6 @@
       "title": "",
       "volume": "20",
       "last_updated": "1592087854",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "21.5": {
-      "title": "Extras del Tomo 1",
-      "volume": "3",
-      "last_updated": "1746747947",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "23.5": {
-      "title": "Krone Omake",
-      "volume": "3",
-      "last_updated": "1516258821",
       "groups": {
         "": [
           ""
