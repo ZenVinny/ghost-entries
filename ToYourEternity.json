@@ -1716,7 +1716,7 @@
       }
     },
     "172": {
-      "title": "Утопия",
+      "title": "Utopia",
       "volume": "21",
       "last_updated": "1688727060",
       "groups": {
@@ -1726,9 +1726,9 @@
       }
     },
     "173": {
-      "title": "Ловушка для загона",
+      "title": "Corral Trap",
       "volume": "21",
-      "last_updated": "1695376726",
+      "last_updated": "1695376680",
       "groups": {
         "": [
           ""
@@ -1736,9 +1736,9 @@
       }
     },
     "174": {
-      "title": "Секрет куклы? ",
+      "title": "The Doll's Secret? ",
       "volume": "21",
-      "last_updated": "1695376830",
+      "last_updated": "1695376800",
       "groups": {
         "": [
           ""
@@ -1746,9 +1746,9 @@
       }
     },
     "175": {
-      "title": "Идеальный план ",
+      "title": "A Perfect Plan",
       "volume": "21",
-      "last_updated": "1695376903",
+      "last_updated": "1695376860",
       "groups": {
         "": [
           ""
@@ -1756,9 +1756,9 @@
       }
     },
     "176": {
-      "title": "Его мотивы",
+      "title": "His Motives, Part 1",
       "volume": "21",
-      "last_updated": "1695377229",
+      "last_updated": "1695377220",
       "groups": {
         "": [
           ""
@@ -1766,9 +1766,9 @@
       }
     },
     "177": {
-      "title": "Его мотивы: часть 2",
+      "title": "His Motives, Part 2",
       "volume": "21",
-      "last_updated": "1708072387",
+      "last_updated": "1708072380",
       "groups": {
         "": [
           ""
@@ -1776,9 +1776,9 @@
       }
     },
     "178": {
-      "title": "Побег ",
+      "title": "Escape ",
       "volume": "21",
-      "last_updated": "1708073083",
+      "last_updated": "1708073040",
       "groups": {
         "": [
           ""
@@ -1899,16 +1899,6 @@
       "title": "El Primero",
       "volume": "",
       "last_updated": "1749068554",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "178.1": {
-      "title": "Fuga (1)",
-      "volume": "21",
-      "last_updated": "1696364012",
       "groups": {
         "": [
           ""
