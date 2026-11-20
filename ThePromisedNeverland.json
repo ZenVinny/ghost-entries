@@ -346,7 +346,7 @@
       }
     },
     "35": {
-      "title": "Execution - Part 4",
+      "title": "Action - Part 4",
       "volume": "5",
       "last_updated": "1643798864",
       "groups": {
@@ -356,7 +356,7 @@
       }
     },
     "36": {
-      "title": "Execution - Part 5",
+      "title": "Action - Part 5",
       "volume": "5",
       "last_updated": "1643798888",
       "groups": {
@@ -376,7 +376,7 @@
       }
     },
     "38": {
-      "title": "The Promised Forest",
+      "title": "Forest of Vows",
       "volume": "5",
       "last_updated": "1643798973",
       "groups": {
@@ -386,7 +386,7 @@
       }
     },
     "39": {
-      "title": "Unforeseen",
+      "title": "Beyond Expectations",
       "volume": "5",
       "last_updated": "1643799028",
       "groups": {
@@ -396,7 +396,7 @@
       }
     },
     "40": {
-      "title": "The Snakes of the Alvar Pinera",
+      "title": "The Snakes of the Alvapinera",
       "volume": "5",
       "last_updated": "1643799093",
       "groups": {
@@ -406,7 +406,7 @@
       }
     },
     "41": {
-      "title": "Ambush",
+      "title": "Attack",
       "volume": "5",
       "last_updated": "1643799168",
       "groups": {
@@ -416,7 +416,7 @@
       }
     },
     "42": {
-      "title": "We Are Not Food",
+      "title": "We Won't Be Eaten",
       "volume": "5",
       "last_updated": "1643799207",
       "groups": {
@@ -1809,16 +1809,6 @@
       "title": "",
       "volume": "20",
       "last_updated": "1592087854",
-      "groups": {
-        "": [
-          ""
-        ]
-      }
-    },
-    "38.5": {
-      "title": "Extras II",
-      "volume": "5",
-      "last_updated": "1529021536",
       "groups": {
         "": [
           ""
